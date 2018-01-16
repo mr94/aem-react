@@ -51,7 +51,7 @@ that are implemented via javascript in the client.
 
 React is one of the most popular javascript web frameworks today. React makes client-side
 web application development as easy as good old server side web development because of its "render
-everthing" ansatz. The developer doesn't need to think about the minimal set of dom manipulations
+everything" ansatz. The developer doesn't need to think about the minimal set of dom manipulations
  to get to the next state of the
 ui but instead defines the new state and the framework handles the dom manipulation.
 
